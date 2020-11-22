@@ -1,16 +1,16 @@
 # Reporting Automation
 
-[Check Application](https://optimizingportfolio.herokuapp.com/)
 
 This repositoyr is divided into two parts
 
 ### 1. Portfolio weight optimization based on Markowitz portfolio theory
 [See Jupyter Notebook](S%26P%20100%20Analytics%20-%20Markowitz%20portfolio.ipynb)
+
 [Wikipedia - Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 
 
 #### Application deployed to Heroku: 
-https://optimizingportfolio.herokuapp.com/
+[Check Application](https://optimizingportfolio.herokuapp.com/)
 
 
 ### 2. Market analytics ETL
