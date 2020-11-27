@@ -6,7 +6,11 @@ This repositoyr is divided into two parts
 ### 1. Portfolio weight optimization based on Markowitz portfolio theory
 [See Jupyter Notebook](S%26P%20100%20Analytics%20-%20Markowitz%20portfolio.ipynb)
 
-[Wikipedia - Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
+Objective 1: Automate process of checking historical stock prices and return list of highest average returns with lowest volatility.
+
+Objective 3: Web scraping news articles related to the stock when there was highest volatility.
+
+Objective 2: Get optimal weight of portfolio based on [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 
 
 #### Application deployed to Heroku: 
